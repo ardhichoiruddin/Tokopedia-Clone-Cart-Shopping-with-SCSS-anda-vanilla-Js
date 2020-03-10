@@ -9,3 +9,6 @@ pure very fast including css and javascript. here I use vanilla js and scss as c
 2. Vanilla Js
 3. Siema Js
 4. Html5
+
+
+To see the results directly, click on this link > https://tokopedia-clone-cart.000webhostapp.com/
