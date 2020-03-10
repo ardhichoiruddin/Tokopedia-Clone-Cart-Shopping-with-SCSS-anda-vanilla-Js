@@ -1,4 +1,7 @@
 # Tokopedia Clone and redesign
+
+![Alt text](img/tokopedia-clone.png?raw=true "Title")
+
 pure very fast including css and javascript. here I use vanilla js and scss as css Prepocessor. Here I am trying to make an online shop cart using vanilla js.
 
 ## The technology that I use
