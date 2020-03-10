@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    
+    <link href="https://fonts.googleapis.com/css?family=Roboto:400,500,700,900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/main.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div class="nav">
+                <div class="nav-logo">
+                    <img src="img/logo.svg" alt="">
+                </div>
+                <div class="nav-cart">
+                    <div class="nav-cart__inner" data-count="0">
+                        
+                        <img src="img/cart-icon.svg" alt="">
+                        <input type="checkbox">
+                        <div class="nav-cart__inner--box">
+                            <ul id="cartList">
+                               
+                              
+                            </ul>
+                            <div class="total">
+                                <div class="total__inner d-flex justify-content-center">
+                                    <p>Total</p>
+                                    <h4>Rp. <span id="totalPrice">0</span></h4>
+                                </div>
+
+                                <button class="buy-now">Bayar Sekarang</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+
+    <br>
+    <br>
+    
+    
+
+    <section>
+        <div class="container">
+            <div class="display-product">
+
+                <ul class="display-product__inner siema" id="displayProduct">
+                  
+                </ul>
+
+                <button type="button" class="btn prev"><img src="img/arrow-icon.svg" alt=""></button>
+                <button type="button" class="btn next"><img src="img/arrow-icon.svg" alt=""></button>
+
+            </div>
+        </div>
+    </section>
+
+
+    <script src="js/product.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/siema@1.5.1/dist/siema.min.js"></script>
+    <script src="js/main.js"></script>
+</body>
+</html>
