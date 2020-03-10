@@ -2,8 +2,7 @@
 pure very fast including css and javascript. here I use vanilla js and scss as css Prepocessor.
 
 ## The technology that I use
-Markup :  1. SCSS
-        2. Vanilla Js
-        3. Siema Js
-        4. Html5
-        
+1. SCSS
+2. Vanilla Js
+3. Siema Js
+4. Html5
